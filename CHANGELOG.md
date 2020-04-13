@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/Hzunax/semantic-versioning-example/compare/v1.1.0...v1.1.1) (2020-04-13)
+
+
+### Bug Fixes
+
+* example of a fix commit ([b19adbd](https://github.com/Hzunax/semantic-versioning-example/commit/b19adbddd04ddd7a278957d504b8733964a2ae23))
+
 ## 1.1.0 (2020-04-13)
 
 
